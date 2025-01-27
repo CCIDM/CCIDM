@@ -7,8 +7,8 @@ Welcome to the official GitHub repository for the Center for Customer Insights a
 ### [Data Wrangling and Visualization Program](https://www.cpp.edu/cba/customer-insights-lab/curriculum/certificate/dwv/index.shtml)
 
 Our Data Wrangling and Visualization Program equips participants with essential skills in:
-	•	Data Wrangling: Learn how to clean, transform, and prepare data for analysis using tools like R and Python.
-	•	Data Visualization: Discover how to effectively communicate insights through compelling visualizations with tools like ggplot2, Tableau, and more.
+	•	Data Wrangling: Learn how to clean, transform, and prepare data for analysis using tools like R and RStudio.
+	•	Data Visualization: Discover how to effectively communicate insights through compelling visualizations with tools like ggplot2, Shiny, and more.
 
 This program offers practical, hands-on workshops to empower participants to work confidently with data and derive actionable insights.
 
@@ -16,10 +16,8 @@ This program offers practical, hands-on workshops to empower participants to wor
 
 The Virtual Workshop Series is designed to provide accessible, high-impact learning opportunities for students, faculty, and industry professionals. Past workshops have included:
 	•	R Programming Basics: Dive into data wrangling and visualization with R.
-	•	Advanced Data Analytics: Explore machine learning techniques and statistical modeling.
+	•	Create Interactive Apps with Shiny in R: Use R and Shiny to create interactive web applications.
 	•	Digital Marketing Analytics: Discover tools and techniques for analyzing online behavior, campaign performance, and customer insights.
-
-Each workshop focuses on bridging the gap between academic knowledge and industry application, enabling participants to tackle real-world challenges with confidence.
 
 ### [Master of Science in Digital Marketing (MSDM)](https://www.cpp.edu/cba/graduate-business-programs/programs/master-degree-in-digital-marketing-and-marketing-analytics.shtml)
 
